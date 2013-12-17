@@ -1,5 +1,5 @@
 <?php 
-error_reporting(E_ERROR);
+//error_reporting(E_ERROR);
 /*
 **********************************
 
@@ -17,8 +17,8 @@ error_reporting(E_ERROR);
 	session_start();
 	//session_destroy();
 	
-	@ini_set('upload_max_filesize', '10G');
-	@ini_set('post_max_size', '10G');
+	//@ini_set('upload_max_filesize', '10G');
+	//@ini_set('post_max_size', '10G');
 	
 	if($_GET['logout'] == 1)
 	{
