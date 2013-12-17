@@ -36,6 +36,8 @@
 	}	
 
 	$filename = base64_decode($_GET['file']);	
+	$filename = str_replace(array(".php", ".PHP", "php5", ".", "/"), "", $filename);
+	
 	$download_type = base64_decode(strip_tags($_GET['download_type']));	
 	
 	if(!empty($download_type))
