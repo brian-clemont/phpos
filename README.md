@@ -1,6 +1,6 @@
 PHPOS Web Operating System<br>Version: 1.35 beta | 2013.11.07
 ====
-<b>http://www.phpos.pl</b>  <br><b>Online demo: http://demo.phpos.pl</b> Login: demo, Password: demopass<br>
+<b>http://www.phpos.pl</b>  <br><b>Online demo: http://phpos.pl/demo</b> Login: demo, Password: demopass<br>
 
 <table>
 <tr>
